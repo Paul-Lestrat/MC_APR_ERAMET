@@ -2,4 +2,4 @@ def function():
 	"""
 	prints Hello world
 	"""
-	print("Hello world!")
+	print("Hello world! This is Stephen")
